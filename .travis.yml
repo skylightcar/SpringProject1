@@ -1,4 +1,3 @@
-# org->com
 language: java
 jdk:
   - openjdk8
